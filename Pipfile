@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = {index = "https://pypi.tuna.tsinghua.edu.cn/simple/",version = "==2.2.5"}
+django = {index = "https://pypi.tuna.tsinghua.edu.cn/simple/",version = "==2.2.20"}
 
 [requires]
 python_version = "3.7"
